@@ -145,10 +145,8 @@ const About = () => {
               <a href="https://summerofcode.withgoogle.com/">an open-source program</a>,{' '}
               <a href="https://acsicorp.com/">a medium-tier service based company</a>,{' '}
               <a href="https://jio.com">a huge corporation</a>, and{' '}
-              <a href="https://tupletechnologies.net/">a start-up</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://tupletechnologies.net/">Tuple</a> for a variety of
-              clients.
+              <a href="https://tupletechnologies.net/">a start-up</a>. My main focus these days is learning 
+              to architect products with cloud technologies at <a href="https://leanix.net/">LeanIX</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
