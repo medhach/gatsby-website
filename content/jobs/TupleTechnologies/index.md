@@ -3,7 +3,7 @@ date: '2021-05-04'
 title: 'Software Engineer'
 company: 'Tuple Technologies'
 location: 'Remote, India'
-range: 'May 2021 - Present'
+range: 'May 2021 - Dec 2021'
 url: 'https://tupletechnologies.net'
 ---
 
