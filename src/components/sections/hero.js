@@ -65,8 +65,8 @@ const Hero = () => {
     <p>
       I'm a software engineer specializing in building (and occasionally designing) digital experiences. 
       Currently, I'm focused on building accessible, human-centered products at{' '}
-      <a href="https://tupletechnologies.net/" target="_blank" rel="noreferrer">
-        Tuple Technologies
+      <a href="https://leanix.net/" target="_blank" rel="noreferrer">
+        LeanIX
       </a>
       .
     </p>
